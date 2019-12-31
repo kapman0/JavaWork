@@ -11,5 +11,6 @@ public class MainClass01 {
 		car1.drive();
 		Phone p1=new Phone();
 		p1.call();
+		System.out.println("주뎅이");
 	}
 }
