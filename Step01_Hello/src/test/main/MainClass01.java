@@ -12,5 +12,6 @@ public class MainClass01 {
 		Phone p1=new Phone();
 		p1.call();
 		System.out.println("주뎅이");
+		p1.takePicture();
 	}
 }
